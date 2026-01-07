@@ -3,7 +3,7 @@
 Provide an insight-driven analytical report to support data-driven marketing decisions by evaluating channel efficiency, saturation behavior, and conversion performance.
 
 ## 2. Dataset Used
-- <a href="https://github.com/TranNgan2007/marketing-channel-performance-analysis/blob/main/Digital_Campaign.xlsx">Dateset</a>
+- <a href="https://github.com/TranNgan2007/marketing-channel-performance-analysis/blob/main/Digital_Campaign.xlsx">Dataset</a>
 
 ## 3. Key Business Questions
 - When did marketing performance reach saturation?
